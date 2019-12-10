@@ -1,7 +1,7 @@
 HELLO
 
 Whenever we make changes to the notebook, we run this and then
-'''python 
+'''
 jupyter nbconvert --to html fp-checkpoint.ipynb
 '''
 
