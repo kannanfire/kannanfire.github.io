@@ -2,7 +2,7 @@ HELLO
 
 Whenever we make changes to the notebook, we run this and then
 ``` 	
-jupyter nbconvert --to html fp-checkpoint.ipynb 
+jupyter nbconvert --to html final_project.ipynb 
 ```
 
 this allows us to check one .ipbyn file and then convert it its own html file
